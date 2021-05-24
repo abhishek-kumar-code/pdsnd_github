@@ -64,11 +64,13 @@ The required files for the project are provided by Motivate, a bike share system
 * new_york_city.csv
 * chicago.csv
 
-## Requirements
+## Software Requirements
 This project uses Python (version 3.7.1) and the following libraries:
 
 * pandas==0.23.4
 * numpy==1.15.4
+* Text editor, like VS Code, Sublime or Atom.
+* A terminal application (Terminal on Mac and Linux or Cygwin on Windows)
 
 ## Credits
 #### ***This project is a graduation requirement for Udacity's Programming for Data Science with Python Nanodegree Bootcamp.***
