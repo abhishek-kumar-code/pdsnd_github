@@ -1,6 +1,6 @@
 """
 @author Kumar, Abhishek
-Date Modified: 05/23/2021
+Date Modified: 05/24/2021
 """
 import time
 import pandas as pd
@@ -23,6 +23,7 @@ def get_filters():
     """"""""
     
     """Messeges to genrate filters"""
+	note_messege = 'In this project, we make use of Python to explore data related to bike share systems for three major cities in the United States\n'
     welcome_messege = 'Hello! Let\'s explore some US bikeshare data!\n'
     enter_city_name_messege = 'Which city would you like to filter by? Chicago, New York City or Washington? '
     filter_definition_messege = '\nWould you like to filter the data by - \n1. Month\n2. Day\n3. Both\n4. No Filter\n\nPlease choose the appropriate filter name.\nNote: Incorrect filter name will result as \'no filter selected\' by the user.\n'
@@ -41,6 +42,7 @@ def get_filters():
     day_list = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
     """"""""
     
+	print(note_messege)
     print(welcome_messege)
     
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs  
