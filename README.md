@@ -30,6 +30,7 @@ The Chicago and New York City files also have the following two columns:
 
 ![](images/nyc-data.PNG)
 <img src="images/nyc-data.png" width="1000">
+***Data for the first 10 rides in the new_york_city.csv file***
 
 ## Statistics Computed
 You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information:
