@@ -317,7 +317,6 @@ def main():
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
-#         print(df)
         raw_data(df)
         time_stats(df)
         station_stats(df)
