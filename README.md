@@ -1,6 +1,7 @@
 # Explore US Bikeshare Data
 
 ![](images/divvy.JPG)
+<img src="images/divvy.jpg" width="1000">
 
 ## About the Project
 In this project, we make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. 
@@ -28,6 +29,7 @@ The Chicago and New York City files also have the following two columns:
 * Birth Year
 
 ![](images/nyc-data.PNG)
+<img src="images/nyc-data.png" width="1000">
 
 ## Statistics Computed
 You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information:
