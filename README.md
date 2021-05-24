@@ -73,5 +73,6 @@ This project uses Python (version 3.7.1) and the following libraries:
 * A terminal application (Terminal on Mac and Linux or Cygwin on Windows)
 
 ## Credits
+[Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
 #### ***This project is a graduation requirement for Udacity's Programming for Data Science with Python Nanodegree Bootcamp.***
 
