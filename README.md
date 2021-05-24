@@ -30,6 +30,7 @@ The Chicago and New York City files also have the following two columns:
 
 ![](images/nyc-data.PNG)
 <img src="images/nyc-data.png" width="1000">
+***Data for the first 10 rides in the new_york_city.csv file***
 
 ## Statistics Computed
 You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information:
@@ -73,5 +74,6 @@ This project uses Python (version 3.7.1) and the following libraries:
 * A terminal application (Terminal on Mac and Linux or Cygwin on Windows)
 
 ## Credits
+[Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
 #### ***This project is a graduation requirement for Udacity's Programming for Data Science with Python Nanodegree Bootcamp.***
 
